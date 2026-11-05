@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-video-timecode-react-inertia",
+  "capabilityKey": "liberusoftware/music-video-timecode",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-music-video-timecode-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/music/nextjs/video-timecode.md",
+  "presentationPlan": "projects/music/react/video-timecode.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
